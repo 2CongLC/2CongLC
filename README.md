@@ -28,10 +28,9 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Building automated software scan security vulnerabilities in web applications - EOG Team](https://shacojx.blogspot.com/2020/08/building-automated-software-scan.html)
-- [How to me cheat auto select answer correct "EOS Client (Exam final Tool at FPT University)"?](https://shacojx.blogspot.com/2021/07/how-to-i-cheat-auto-select-answer.html)
-- [Fake Mail with Java](https://shacojx.blogspot.com/2019/04/fake-mail-with-java-hoa-roi-cua-phat.html)
-- [FPT University Phishing mail spoofing](https://shacojx.blogspot.com/2019/04/drama-fpt-phishing-mail-thoi-anh-khong.html)
+- [Windows Repair](https://2conglc-vn.blogspot.com/2020/05/visual-basic-windows-repair.html)
+- [Network Repair](https://2conglc-vn.blogspot.com/2020/11/network-adapter-repair-cong-cu-sua-loi.html)
+- [Visual Basic Script](https://2conglc-vn.blogspot.com/2020/11/tien-ich-vbscript-hay-danh-cho-pc.html)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
