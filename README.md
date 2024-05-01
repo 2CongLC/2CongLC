@@ -12,11 +12,11 @@
 
 ### A little about me... 
 
-- 📊 Founder **HGames Studio Co. Ltd** (2022 - Now)
+- 📊 Founder **2CongLC** (2005 - Now)
 - 🛠 Pentester
 - 🐞 Developer
-- 🤖 Gamer
-- 📊 Blogger
+- 🤖 Gamer **2001 - Now**
+- 📊 Blogger **2conglc-vn**
 - 🤔 DevOps
 - 👯 SecOps
 
